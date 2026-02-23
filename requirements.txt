@@ -1,0 +1,16 @@
+# Core
+pandas<2.3.0
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# NLP / ML
+torch
+datasets
+sentence-transformers
+setfit
+transformers<5.0
+
+# Weak supervision (Phase 1)
+snorkel
