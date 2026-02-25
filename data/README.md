@@ -5,20 +5,6 @@ Dieses Verzeichnis enthält die im Projekt verwendeten Datensätze:
 - `data_PDA.csv`: Rohdaten (Textsegmente, Metadaten)
 - `data_PDA_labeled.csv`: Manuell annotierter Datensatz (zusätzliches Label-Feld)
 
-## Dateiformat
-- **Trennzeichen:** Semikolon (`;`)
-- **Encoding:** `cp1252` (Windows-1252)
-- **Zeilenumbrüche:** können in Textsegmenten vorkommen
-
-Beispiel (Python):
-
-```python
-import pandas as pd
-
-df_unlabeled = pd.read_csv("data/data_PDA.csv", sep=";", encoding="cp1252")
-df_labeled   = pd.read_csv("data/data_PDA_labeled.csv", sep=";", encoding="cp1252")
-```
-
 ## Spaltenbeschreibung
 
 ### `data_PDA.csv`
