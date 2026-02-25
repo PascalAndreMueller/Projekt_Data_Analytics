@@ -5,12 +5,16 @@ scikit-learn
 matplotlib
 seaborn
 
+# Jupyter
+jupyterlab
+tqdm
+
 # NLP / ML
 torch
+transformers<5.0
 datasets
 sentence-transformers
 setfit
-transformers<5.0
 
 # Weak supervision (Phase 1)
 snorkel
