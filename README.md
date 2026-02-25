@@ -16,8 +16,8 @@ Die technologische Transformation vom Verbrennungsmotor zum batterieelektrischen
 Um den Code lokal auszuführen, klone das Repository und installiere die benötigten Abhängigkeiten:
 
 ```bash
-git clone <REPO-URL>
-cd <REPO-NAME>
+git clone https://github.com/PascalAndreMueller/Projekt_Data_Analytics.git
+cd Projekt_Data_Analytics
 
 python -m venv .venv
 # macOS/Linux:
