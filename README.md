@@ -13,7 +13,6 @@ Die technologische Transformation vom Verbrennungsmotor zum batterieelektrischen
 - `notebooks/`: Jupyter Notebooks für Preprocessing/Labeling (Pilotphase) und Modelltraining/Evaluation (manuell gelabelter Datensatz).
 - `requirements.txt`: Python-Abhängigkeiten für eine lokale Ausführung.
 - `LICENSE`: Lizenz des Codes.
-- `CITATION.cff`: Zitierhinweise für dieses Repository.
 
 ## Reproduzierbarkeit & Installation
 Um den Code lokal auszuführen, klone das Repository und installiere die benötigten Abhängigkeiten:
