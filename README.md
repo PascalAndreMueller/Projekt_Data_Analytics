@@ -38,5 +38,3 @@ Colab-spezifische Pfade (z. B. `/content/...`) oder Installationskommandos entha
 empfiehlt sich, die Abhängigkeiten über `requirements.txt` zu installieren und Dateipfade auf die im Repository
 enthaltenen Dateien unter `data/` anzupassen (Details siehe `data/README.md` und `notebooks/README.md`).
 
-## Zitieren
-Wenn du dieses Repository zitierst, nutze bitte die Angaben in `CITATION.cff` (GitHub unterstützt „Cite this repository“ automatisch).
