@@ -3,4 +3,8 @@
 - `Code_data_unlabeled.ipynb`: Pilotphase (Weak Supervision / Snorkel) – programmatic keyword labels.
 - `Code_data_labeled.ipynb`: Trainings- und Auswertungsnotebook für den manuell annotierten Datensatz.
 
-Hinweis: Die Notebooks wurden ursprünglich in Google Colab (GPU) ausgeführt. Lokal läuft es auch ohne GPU, kann aber deutlich langsamer sein.
+Hinweis: Die Notebooks wurden ursprünglich in Google Colab (GPU) ausgeführt. Lokal läuft es auch ohne GPU,
+kann aber deutlich langsamer sein.
+
+GitHub-Vorschau: Falls GitHub das Notebook nicht korrekt rendert, kann es über **Raw/Download** geladen und lokal
+in JupyterLab/Jupyter Notebook geöffnet werden.
