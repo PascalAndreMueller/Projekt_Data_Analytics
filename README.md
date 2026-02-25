@@ -33,7 +33,7 @@ jupyter lab
 ```
 
 ### Hinweis zu den Notebooks (Colab-Herkunft)
-Die Notebooks wurden ursprünglich in **Google Colab** erstellt. Entsprechend können einzelne Zellen
+Die Notebooks wurden ursprünglich in Google Colab erstellt. Entsprechend können einzelne Zellen
 Colab-spezifische Pfade (z. B. `/content/...`) oder Installationskommandos enthalten. Für eine lokale Ausführung
 empfiehlt sich, die Abhängigkeiten über `requirements.txt` zu installieren und Dateipfade auf die im Repository
 enthaltenen Dateien unter `data/` anzupassen (Details siehe `data/README.md` und `notebooks/README.md`).
