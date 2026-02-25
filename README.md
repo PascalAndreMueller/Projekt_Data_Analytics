@@ -10,7 +10,7 @@ Die technologische Transformation vom Verbrennungsmotor zum batterieelektrischen
 
 ## Repository-Struktur
 - `data/`: Enthält die Rohdaten (`data_PDA.csv`) sowie die gelabelten Daten (`data_PDA_labeled.csv`).
-- `notebooks/`: Jupyter Notebooks für das Preprocessing der ungelabelten Daten (`Code_data_unlabeled_github.ipynb`) sowie für das Training und die Auswertung der gelabelten Daten (`Code_data_labeled_github.ipynb`).
+- `notebooks/`: Jupyter Notebooks für das Preprocessing der ungelabelten Daten (`Code_data_unlabeled.ipynb`) sowie für das Training und die Auswertung der gelabelten Daten (`Code_data_labeled.ipynb`).
 
 ## Reproduzierbarkeit & Installation
 Um den Code lokal auszuführen, klone das Repository und installiere die benötigten Abhängigkeiten:
